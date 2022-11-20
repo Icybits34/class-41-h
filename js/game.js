@@ -134,7 +134,7 @@ class Game{
                       if(obstacleGroup.isTouching(players)){
                         
                 
-                        gameState = 1;
+                        gameState = 2;
                         
                        
                       }
